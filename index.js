@@ -1,6 +1,6 @@
 drivers = ["Milo", "Otis", "Garfield"];
 function drivers(){
-  const drivers = [Milo, Otis, Garfield];
+  drivers = [Milo, Otis, Garfield];
 }
 
 function destructivelyAppendDriver () {
